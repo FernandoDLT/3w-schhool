@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: aqua;
+}
+
+h3 {
+    color: orange;
+}
+
+h4 {
+    color: red;
+}
+
+h5, h6 {
+    color: green;
+}
